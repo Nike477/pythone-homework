@@ -8,3 +8,4 @@ print(artist)
 print(genre)
 print(year)
 print(durationSeconds)
+#it`s my first homework
